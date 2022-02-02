@@ -1,0 +1,2 @@
+# INDEX
+GET http://localhost:3000/news
